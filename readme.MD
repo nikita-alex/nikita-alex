@@ -1,3 +1,3 @@
 * Welcome to my git! 😀
-* Very cool guy from Kazakhstan 😎
-* Interested in learning Golang/PHP. 🤓 
+* Interested in learning Golang. 🤓 
+* Doin' some learning projects 
