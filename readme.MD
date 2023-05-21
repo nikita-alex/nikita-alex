@@ -1,3 +1,2 @@
-* Welcome to my git! 😀
-* Interested in learning Golang. 🤓 
-* Doin' some learning projects 
+* Welcome to my git! 😀 
+* Doin' some learning projects and other stuff
